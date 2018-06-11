@@ -20,4 +20,4 @@ def division(num1,num2)
 	num1/num2
 end
 
-p division(3,2)
+p division(3.0,2.0)
