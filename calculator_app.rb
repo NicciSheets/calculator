@@ -17,7 +17,7 @@ end
 p multiplication(4,2)
 
 def division(num1,num2)
-	num1/num2
+	(num1 + 0.0)/(num2 + 0.0)
 end
 
-p division(3.0,2.0)
+p division(3,4)
