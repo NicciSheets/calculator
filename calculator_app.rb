@@ -21,8 +21,12 @@ def division(num1,num2)
 	num1.to_f/num2.to_f
 end
 
+
 # p division(3,4)
 
- 
 
 
+
+# def math(num1,action,num2)
+
+	
